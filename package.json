@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anbroyar/Bamazon-cli.git"
+  },
+  "author": "anbroyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anbroyar/Bamazon-cli/issues"
+  },
+  "homepage": "https://github.com/Anbroyar/Bamazon-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
