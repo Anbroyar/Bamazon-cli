@@ -10,4 +10,4 @@ The user iwill be asked to select an ID of an item to purchase, then the amount 
 The app checks the stock quantity: if there are not enough items in stock it returns the failure message and asks the user to try again.
 If everything is ok, user gets a total cost of the order and will be asked to confirm the order.
 Then user will be asked to continue shopping or not.
-![img](https://github.com/Anbroyar/Bamazon-cli/raw/master/screenshots/spurchase.png)
+![img](https://github.com/Anbroyar/Bamazon-cli/raw/master/screenshots/purchase.png)
